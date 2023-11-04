@@ -605,9 +605,12 @@ footer p{
     margin-bottom: 4px;
 }
 
+.form-container{
+    margin-bottom: 8px;
+}
+
 .modal-form-container{
     position: relative;
-    margin-bottom: 8px;
 }
 
 .modal-user-name{
