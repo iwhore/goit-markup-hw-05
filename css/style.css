@@ -689,7 +689,7 @@ footer p{
     fill: transparent;
 }
 
-.form-comment:checked .form-span{
+.checkbox:checked+.label-checkbox>.form-span{
     fill:#F4F4FD; 
     border: none;
     background-color: #404bbf;
