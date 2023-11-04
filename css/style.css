@@ -689,11 +689,10 @@ footer p{
     fill: transparent;
 }
 
-.checkbox:checked .form-span{
+.form-comment:checked .form-span{
     fill:#F4F4FD; 
     border: none;
     background-color: #404bbf;
-    
 }
 
 .policy{
