@@ -582,6 +582,8 @@ footer p{
     transition: fill 250ms cubic-bezier(0.4, 0, 0.2, 1); 
 }
 
+
+
 .modal-p{
     font-weight: 500;
     font-size: 16px;
@@ -596,7 +598,7 @@ footer p{
     margin-bottom: 8px;
 }
 
-.madal-label{
+.modal-label{
     font-size: 12px;
     line-height: 1.17; 
     letter-spacing: 0.04em;
