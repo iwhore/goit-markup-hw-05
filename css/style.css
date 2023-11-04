@@ -692,6 +692,8 @@ footer p{
 .checkbox:checked .form-span{
     fill:#F4F4FD; 
     border: none;
+    background-color: #404bbf;
+    
 }
 
 .policy{
